@@ -1,8 +1,7 @@
 # Git e GitHub para Iniciantes
 
 ## Objetivo
-Ensinar os fundamentos de controle de versão com Git e colaboração no GitHub, cobrindo desde a configuração inicial até a resolução de conflitos e pull requests.
-
+nenhum
 ## Público-alvo
 Estudantes sem experiência prévia em controle de versão, que querem aprender a usar Git e GitHub do zero.
 
